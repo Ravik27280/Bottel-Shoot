@@ -8,7 +8,7 @@ public class rotationsphare : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        movement = new Vector3(0, 100, 0);
+        movement = new Vector3(0, 200, 0);
         
     }
 
